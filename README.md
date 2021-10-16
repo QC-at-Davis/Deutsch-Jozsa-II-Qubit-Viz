@@ -7,7 +7,7 @@ The relevant notebooks for the above are (in order of the material presented):
 * `Deutsch's-Algorithm.ipynb`
 * `Deutsch-Jozsa.ipynb`
 
-There is also additional content on visualizing Qubits with the Bloch Sphere in the `Qubit-Visualization.ipynb` notebook, based off of [QCaD-Circuits-I.ipynb](https://github.com/QC-at-Davis/npquantum/blob/master/QCaD-Circuits-I.ipynb).
+There is also additional content on visualizing Qubits with the Bloch Sphere in the `Qubit-Visualization.ipynb` notebook, based off of [QCaD-Circuits-I.ipynb](https://github.com/QC-at-Davis/npquantum/blob/master/QCaD-Circuits-I.ipynb) (which you are encouraged to experiment with as well, considering it covers many of the gates this workshop didn't), along with `QCaD-Circuits-II.ipynb` in the same repository.
 
 
 ## Getting Set Up
